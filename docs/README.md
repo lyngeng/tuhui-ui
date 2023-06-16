@@ -8,7 +8,7 @@ npm i tuhui-ui
 
 ### 使用组件库
 
-> 在 main,js 中引用组件库
+> 在 main.js 中引用组件库
 
 ```js
 // 全部引入
