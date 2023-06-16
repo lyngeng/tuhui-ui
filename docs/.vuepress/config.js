@@ -5,8 +5,7 @@ module.exports = {
   themeConfig: {
     title: "tuhui-ui",
     nav: [
-      { text: "home", link: "/" },
-      { text: "github", link: "/guide/" },
+      { text: "github", link: "https://github.com/lyngeng/tuhui-ui" },
       { text: "npm", link: "https://www.npmjs.com/package/tuhui-ui" },
     ],
     sidebar: ["/", "/componentDocs/thCard"],

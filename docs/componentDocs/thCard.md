@@ -2,7 +2,7 @@
 
 ### 示例
 
-<thCard imgSrc="/tuhuiUI/logo.png" summary="Vue" />
+<thCard imgSrc="/tuhui-ui/logo.png" summary="Vue" />
 
 ### 代码
 
